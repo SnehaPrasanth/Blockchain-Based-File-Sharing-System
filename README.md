@@ -3,6 +3,7 @@
 This project is a secure and decentralized file sharing application that combines AES encryption, IPFS for distributed file storage, Supabase for user authentication, and simulated blockchain-based metadata management. Users can upload, encrypt, share, and receive files while ensuring confidentiality, verifiability, and tamper-resistance.
 
 Key Features
+
 🔒 AES Encryption: Files are encrypted before upload to protect data confidentiality.
 
 🌐 IPFS Storage: Files are stored in a decentralized network to prevent single points of failure.
