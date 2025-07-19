@@ -1,4 +1,4 @@
-# Blockchain-Based-File-Sharing-System
+# Blockchain Based File Sharing System
 
 This project is a secure and decentralized file sharing application that combines AES encryption, IPFS for distributed file storage, Supabase for user authentication, and simulated blockchain-based metadata management. Users can upload, encrypt, share, and receive files while ensuring confidentiality, verifiability, and tamper-resistance.
 
